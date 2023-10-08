@@ -41,15 +41,15 @@ Follow these steps to get the Todo List up and running on your local machine:
 3. **Install Dependencies**
 
    ```bash
-   npm install
+   `npm install`
 4. **Start Development Server**
 
    ```bash
-   npm run dev
+   `npm run dev`
 5. **Build for Production**
 
    ```bash
-   npm run build
+   `npm run build`
 ## Project Structure
 
 The project's structure is organized as follows:
