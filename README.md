@@ -38,24 +38,23 @@ Follow these steps to get the Todo List up and running on your local machine:
 2. **Install Dependencies**
 
    ```bash
-   `npm install`
+   npm install
 3. **Start Development Server**
 
    ```bash
-   `npm run dev`
+   npm run dev
 4. **Build for Production**
    If you want to build the application for production, you can run:
 
    ```bash
-   `npm run build`
-   ```
+   npm run build
 ## Project Structure
 
 The project's structure is organized as follows:
 
 - **`src/`** Contains the source code of the application.
   - `model/` - Model of a List and FullList are contained within.
-  - `templates` - Template of a rendered list.
+  - `templates/` - Template of a rendered list.
   - `main.ts` - Entry point for the application.
 - **`public/`** Public assets like images.
 
