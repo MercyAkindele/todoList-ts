@@ -33,18 +33,20 @@ Follow these steps to get the Todo List up and running on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/MercyAkindele/todoList-ts.git
-   cd todoList-ts
-2. **Install Dependencies**
+   `git clone https://github.com/MercyAkindele/todoList-ts.git`
+2. **Navigate to the project directory**
+
+    ```bash
+    `cd todoList-ts` 
+3. **Install Dependencies**
 
    ```bash
    npm install
-3. **Start Development Server**
+4. **Start Development Server**
 
    ```bash
    npm run dev
-4. **Build for Production**
-   If you want to build the application for production, you can run:
+5. **Build for Production**
 
    ```bash
    npm run build
